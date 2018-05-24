@@ -30,8 +30,4 @@ serve_site()
 # Below command renders the site into "public" publishDir = "../raklein.me" in config.toml
 build_site()
 
-# To commit to github pages, open a terminal, navigate to the raklein.github.io folder
-# and type these three lines:
-#git add --all
-#git commit -m "Commit message here"
-#git push -u origin master
+# To commit to github pages, use the "Git" window in R Studio. First Commit, then Push.
