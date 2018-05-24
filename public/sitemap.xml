@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://raklein.me/2018/03/manylabs2-nearlydone-rmd/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/2018/03/hello-world-rmd/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/tags/crowdsourcing/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/tags/first/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/tags/hello/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/tags/intro/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/tags/many-labs-2/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/post/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/tags/replication/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/tags/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://raklein.me/categories/updates/</loc>
+    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

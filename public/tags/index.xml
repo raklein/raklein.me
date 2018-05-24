@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Richard Klein</title>
+    <link>https://raklein.me/tags/</link>
+    <description>Recent content in Tags on Richard Klein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raklein.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crowdsourcing</title>
+      <link>https://raklein.me/tags/crowdsourcing/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/tags/crowdsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://raklein.me/tags/first/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://raklein.me/tags/hello/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://raklein.me/tags/intro/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/tags/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many Labs 2</title>
+      <link>https://raklein.me/tags/many-labs-2/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/tags/many-labs-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication</title>
+      <link>https://raklein.me/tags/replication/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/tags/replication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

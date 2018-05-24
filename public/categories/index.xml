@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Richard Klein</title>
+    <link>https://raklein.me/categories/</link>
+    <description>Recent content in Categories on Richard Klein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://raklein.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Updates</title>
+      <link>https://raklein.me/categories/updates/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/categories/updates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
