@@ -1,5 +1,6 @@
 # Following https://tclavelle.github.io/blog/blogdown_github/
 # Builds webpage in blogdown, pushes files to GitHub, and then Netlify knits them into raklein.me (using custom domain)
+# After source files are on GitHub, here's directions to publish on Netlify: https://bookdown.org/yihui/blogdown/netlify.html
 
 # Many lines below commented out because they are only run once
 # and then files are manually edited (e.g., will be overwritten if you run this)
