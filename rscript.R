@@ -31,3 +31,8 @@ serve_site()
 build_site()
 
 # To commit to github pages, use the "Git" window in R Studio. First Commit, then Push.
+
+# Can use terminal commands as a shortcut.
+#git add --all
+#git commit -m "Commit message here"
+#git push -u origin master
