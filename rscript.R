@@ -17,8 +17,7 @@ library(blogdown)
 #install_hugo()
 
 # Create new site in our recently cloned blogdown repository (same as wd, unless specified)
-#new_site(theme = 'kakawait/hugo-tranquilpeak-theme',
-#         format = 'toml')
+#new_site(theme = 'kakawait/hugo-tranquilpeak-theme')
 
 # Create a new post
 # new_post(title = 'hello-world.Rmd', ext = ".Rmd")
