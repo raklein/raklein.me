@@ -34,7 +34,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [author]
   name = "Richard Klein"
-  bio = "Social Psychology researcher at the Université Grenoble Alpes. Interested in the reproducibility of psychological science across contexts.<br>raklein22@gmail.com"
+  bio = "Post-doctoral researcher at the Université Grenoble Alpes. Interested in the reproducibility of psychological science across contexts.<br>raklein22@gmail.com"
   job = "Post-doc"
   location = "Grenoble, France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -110,6 +110,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Scholar"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-google\"></i>"
   url = "https://scholar.google.com/citations?user=wxW6e0sAAAAJ"
+[[menu.links]]
+  weight = 4
+  identifier = "neurotree"
+  name = "NeuroTree"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tree\"></i>"
+  url = "http://neurotree.org/neurotree/tree.php?pid=747208&pnodecount=6&cnodecount=2&fontsize=1"
 
 #[[menu.misc]]
 #  weight = 1
