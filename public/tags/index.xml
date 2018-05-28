@@ -2,66 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Richard Klein</title>
-    <link>/tags/</link>
+    <link>https://raklein.me/tags/</link>
     <description>Recent content in Tags on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raklein.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crowdsourcing</title>
-      <link>/tags/crowdsourcing/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://raklein.me/tags/crowdsourcing/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/crowdsourcing/</guid>
+      <guid>https://raklein.me/tags/crowdsourcing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Many Labs 2</title>
-      <link>/tags/many-labs-2/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://raklein.me/tags/many-labs-2/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/many-labs-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
+      <guid>https://raklein.me/tags/many-labs-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Replication</title>
-      <link>/tags/replication/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://raklein.me/tags/replication/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/replication/</guid>
+      <guid>https://raklein.me/tags/replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://raklein.me/tags/welcome/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raklein.me/tags/welcome/</guid>
       <description></description>
     </item>
     

@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Markdown on Richard Klein</title>
-    <link>/tags/r-markdown/</link>
+    <link>https://raklein.me/tags/r-markdown/</link>
     <description>Recent content in R Markdown on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raklein.me/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sample Post</title>
-      <link>/2015/07/sample-post/</link>
+      <link>https://raklein.me/2015/07/sample-post/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/2015/07/sample-post/</guid>
+      <guid>https://raklein.me/2015/07/sample-post/</guid>
       <description>Trying Something New This is a new page built in the Blogdown R Package, uploaded to GitHub, and knitted by Netlify. Some sample code below demonstrating cool things we can do in Blogdown.
- R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:</description>
+ </description>
     </item>
     
   </channel>
