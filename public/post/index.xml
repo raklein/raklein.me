@@ -29,7 +29,7 @@ Public release of the results/manuscript/data should occur shortly, pending fina
       <guid>https://raklein.me/2018/05/hello-world-rmd/</guid>
       <description>Trying out a new webpage design. This is built in the ‘blogdown’ R package, uploaded to a GitHub repo, then served to web with Netlify. Credit to the Hugo Tranquilpeak theme.
 One advantage is that we can write in simple R Markdown, and embed+run R code easily:
-mean(cars$speed) ## [1] 15.4 fit &amp;lt;- lm(dist ~ speed, data = cars) fit ## ## Call: ## lm(formula = dist ~ speed, data = cars) ## ## Coefficients: ## (Intercept) speed ## -17.</description>
+mean(cars$speed)## [1] 15.4fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
     </item>
     
   </channel>
