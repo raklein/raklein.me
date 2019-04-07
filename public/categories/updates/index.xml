@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Richard Klein</title>
-    <link>/categories/updates/</link>
+    <link>https://raklein.me/categories/updates/</link>
     <description>Recent content in Updates on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raklein.me/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Many Labs 2 Under Review</title>
-      <link>/2018/05/manylabs2-nearlydone-rmd/</link>
+      <link>https://raklein.me/2018/05/manylabs2-nearlydone-rmd/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/manylabs2-nearlydone-rmd/</guid>
+      <guid>https://raklein.me/2018/05/manylabs2-nearlydone-rmd/</guid>
       <description>EDIT:ML2 was published Dec 2018, open access in AMPPS. See also the commentaries from original authors.
 ORIGINAL: The Many Labs 2 project has been submitted and is under review at AMPPS. Overall, 28 psychology studies were replicated across &amp;gt;120 samples from 34 countries around the world, totalling &amp;gt;15,000 participants.
 Public release of the results/manuscript/data should occur shortly, pending final revisions and alongside commentaries from original authors.</description>
@@ -24,10 +24,10 @@ Public release of the results/manuscript/data should occur shortly, pending fina
     
     <item>
       <title>First Post</title>
-      <link>/2018/05/hello-world-rmd/</link>
+      <link>https://raklein.me/2018/05/hello-world-rmd/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/hello-world-rmd/</guid>
+      <guid>https://raklein.me/2018/05/hello-world-rmd/</guid>
       <description>Trying out a new webpage design. This is built in the ‘blogdown’ R package, uploaded to a GitHub repo, then served to web with Netlify. Credit to the Hugo Tranquilpeak theme.
 One advantage is that we can write in simple R Markdown, and embed+run R code easily:
 mean(cars$speed)## [1] 15.4fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
