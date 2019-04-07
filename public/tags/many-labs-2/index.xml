@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Many Labs 2 on Richard Klein</title>
-    <link>https://raklein.me/tags/many-labs-2/</link>
+    <link>/tags/many-labs-2/</link>
     <description>Recent content in Many Labs 2 on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raklein.me/tags/many-labs-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/many-labs-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Many Labs 2 Under Review</title>
-      <link>https://raklein.me/2018/05/manylabs2-nearlydone-rmd/</link>
+      <link>/2018/05/manylabs2-nearlydone-rmd/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://raklein.me/2018/05/manylabs2-nearlydone-rmd/</guid>
-      <description>The Many Labs 2 project has been submitted and is under review at AMPPS. Overall, 28 psychology studies were replicated across &amp;gt;120 samples from 34 countries around the world, totalling &amp;gt;15,000 participants.
+      <guid>/2018/05/manylabs2-nearlydone-rmd/</guid>
+      <description>EDIT:ML2 was published Dec 2018, open access in AMPPS. See also the commentaries from original authors.
+ORIGINAL: The Many Labs 2 project has been submitted and is under review at AMPPS. Overall, 28 psychology studies were replicated across &amp;gt;120 samples from 34 countries around the world, totalling &amp;gt;15,000 participants.
 Public release of the results/manuscript/data should occur shortly, pending final revisions and alongside commentaries from original authors.</description>
     </item>
     
