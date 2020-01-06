@@ -1,73 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://raklein.me/2018/05/manylabs2-nearlydone-rmd/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/crowdsourcing/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/many-labs/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/many-labs-4-preprint-rmd/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/releases/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/replication/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/05/manylabs2-nearlydone-md/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://raklein.me/2018/05/hello-world-rmd/</loc>
+    <loc>/categories/updates/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/05/hello-world-rmd/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://raklein.me/archives/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/tags/crowdsourcing/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/tags/many-labs-2/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/post/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/tags/replication/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/tags/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/categories/updates/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raklein.me/tags/welcome/</loc>
+    <loc>/tags/welcome/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/archives/</loc>
   </url>
   
 </urlset>

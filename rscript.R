@@ -16,7 +16,8 @@
 library(blogdown)
 #install_hugo()
 
-# Create new site in our recently cloned blogdown repository (same as wd, unless specified)
+# To make the site you would run this line, but we've already done this.
+# Needs to be in an empty directory if you want to start from scratch.
 #new_site(theme = 'kakawait/hugo-tranquilpeak-theme')
 
 # Create a new post
@@ -28,11 +29,11 @@ serve_site()
 
 # To deploy to web:
 # Below command renders the site into "public" publishDir = "../raklein.me" in config.toml
+# I'm not sure this is even necessary given our netlify workflow.
 build_site()
 
 # To commit to github pages, use the "Git" window in R Studio. First Commit, then Push.
-
-# Can use terminal commands as a shortcut.
+# You can also use terminal (note: not 'console') commands as a shortcut.
 #git add --all
 #git commit -m "Commit message here"
 #git push -u origin master

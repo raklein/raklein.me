@@ -2,13 +2,16 @@
 title: "Many Labs 2 Under Review"
 author: "Rick Klein"
 date: '2018-05-28'
-slug: manylabs2-nearlydone-rmd
-categories: ["Updates"]
-tags: ["many labs 2", "replication", "crowdsourcing"]
+slug: manylabs2-nearlydone-md
+categories: ["Updates", "Releases"]
+# thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+# thumbnailImagePosition: left
+tags: ["many labs", "replication", "crowdsourcing"]
 --- 
-*EDIT:ML2 was published Dec 2018, [open access in AMPPS](https://journals.sagepub.com/doi/10.1177/2515245918810225). See also [the commentaries from original authors](https://www.psychologicalscience.org/publications/many-labs-2).*
+*EDIT: ML2 was published Dec 2018, [open access in AMPPS](https://journals.sagepub.com/doi/10.1177/2515245918810225). See also [the commentaries from original authors](https://www.psychologicalscience.org/publications/many-labs-2).*
 
 *ORIGINAL:* 
 [The Many Labs 2 project](https://osf.io/8cd4r/) has been submitted and is under review at [AMPPS](https://www.psychologicalscience.org/publications/ampps). Overall, 28 psychology studies were replicated across >120 samples from 34 countries around the world, totalling >15,000 participants.
 
 Public release of the results/manuscript/data should occur shortly, pending final revisions and alongside commentaries from original authors.
+<!--more-->
