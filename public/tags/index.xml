@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Richard Klein</title>
-    <link>https://raklein.me/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raklein.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>crowdsourcing</title>
-      <link>https://raklein.me/tags/crowdsourcing/</link>
+      <link>/tags/crowdsourcing/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://raklein.me/tags/crowdsourcing/</guid>
+      <guid>/tags/crowdsourcing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>many labs</title>
-      <link>https://raklein.me/tags/many-labs/</link>
+      <link>/tags/many-labs/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://raklein.me/tags/many-labs/</guid>
+      <guid>/tags/many-labs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>replication</title>
-      <link>https://raklein.me/tags/replication/</link>
+      <link>/tags/replication/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://raklein.me/tags/replication/</guid>
+      <guid>/tags/replication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>https://raklein.me/tags/welcome/</link>
+      <link>/tags/welcome/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://raklein.me/tags/welcome/</guid>
+      <guid>/tags/welcome/</guid>
       <description></description>
     </item>
     
