@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>crowdsourcing on Richard Klein</title>
-    <link>/tags/crowdsourcing/</link>
+    <link>https://raklein.me/tags/crowdsourcing/</link>
     <description>Recent content in crowdsourcing on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raklein.me/tags/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Many Labs 4 Preprint</title>
-      <link>/2020/01/many-labs-4-preprint-rmd/</link>
+      <link>https://raklein.me/2020/01/many-labs-4-preprint-rmd/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/many-labs-4-preprint-rmd/</guid>
+      <guid>https://raklein.me/2020/01/many-labs-4-preprint-rmd/</guid>
       <description>
 
 
@@ -26,10 +26,10 @@
     
     <item>
       <title>Many Labs 2 Under Review</title>
-      <link>/2018/05/manylabs2-nearlydone-md/</link>
+      <link>https://raklein.me/2018/05/manylabs2-nearlydone-md/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/manylabs2-nearlydone-md/</guid>
+      <guid>https://raklein.me/2018/05/manylabs2-nearlydone-md/</guid>
       <description> 
 
 
