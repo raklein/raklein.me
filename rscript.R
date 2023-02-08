@@ -21,7 +21,7 @@ library(blogdown)
 #new_site(theme = 'kakawait/hugo-tranquilpeak-theme')
 
 # Create a new post
-# new_post(title = 'hello-world.Rmd', ext = ".Rmd")
+# new_post(title = 'strava-anim.Rmd', ext = ".Rmd")
 
 # Serve site to generate the webpage.
 # Click the button next to the broom in the viewer to open in a browser.

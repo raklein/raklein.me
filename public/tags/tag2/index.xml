@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag2 on Richard Klein</title>
+    <link>/tags/tag2/</link>
+    <description>Recent content in tag2 on Richard Klein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>strava-anim.Rmd</title>
+      <link>/2023/02/strava-anim-rmd/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/strava-anim-rmd/</guid>
+      <description>
+
+
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;allruns_anim3-optimize.gif&#34; alt=&#34;&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Animated Running Data&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

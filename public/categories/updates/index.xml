@@ -35,17 +35,6 @@
 
 &lt;p&gt;Trying out a new webpage design. This is built in the ‘blogdown’ R package, uploaded to a &lt;a href=&#34;https://github.com/raklein/raklein.me&#34;&gt;GitHub repo&lt;/a&gt;, then served to web with Netlify. Credit to the &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme&#34;&gt;Hugo Tranquilpeak&lt;/a&gt; theme.&lt;/p&gt;
 &lt;p&gt;One advantage is that we can write in simple R Markdown, and embed+run R code easily:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;mean(cars$speed)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## [1] 15.4&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

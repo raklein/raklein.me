@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="generator" content="Hugo 0.92.0 with theme Tranquilpeak 0.4.7-BETA">
+<meta name="generator" content="Hugo 0.100.1 with theme Tranquilpeak 0.4.7-BETA">
 <meta name="author" content="Richard Klein">
 <meta name="keywords" content="">
 <meta name="description" content="Richard Klein">
@@ -107,11 +107,21 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://github.com/raklein/resume/raw/master/klein_cv.pdf">
+      <a class="sidebar-button-link " href="https://github.com/raklein/resume/blob/master/klein_cv.pdf">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">CV</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/raklein/resume/blob/master/klein_resume.pdf">
     
       <i class="sidebar-button-icon fa fa-lg fa-file"></i>
       
-      <span class="sidebar-button-desc">Vita</span>
+      <span class="sidebar-button-desc">Resume</span>
     </a>
   </li>
 
@@ -207,6 +217,68 @@
         <section class="postShorten-group main-content-wrap">
           
           
+          
+            
+  
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="/2023/02/strava-anim-rmd/">
+          Animated Runs
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2023-02-08T00:00:00Z">
+        
+  February 8, 2023
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="/categories/side-projects">Side Projects</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        
+
+
+<p>As a personal project, I pulled some data from the Strava API and visualized it. I documented the code on <a href="https://github.com/raklein/strava-anim">GitHub</a> so that anyone can do this with their own Strava data.</p>
+
+      
+      <p>
+        <a href="/2023/02/strava-anim-rmd/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+    <a href="/2023/02/strava-anim-rmd/">
+      <div class="postShorten-thumbnailimg">
+        <img alt="" itemprop="image" src="/img/allruns_anim3-optimize-smaller.gif"/>
+      </div>
+    </a>
+  
+</article>
+
           
             
   
@@ -383,17 +455,6 @@
 
 <p>Trying out a new webpage design. This is built in the ‘blogdown’ R package, uploaded to a <a href="https://github.com/raklein/raklein.me">GitHub repo</a>, then served to web with Netlify. Credit to the <a href="https://github.com/kakawait/hugo-tranquilpeak-theme">Hugo Tranquilpeak</a> theme.</p>
 <p>One advantage is that we can write in simple R Markdown, and embed+run R code easily:</p>
-<pre class="r"><code>mean(cars$speed)</code></pre>
-<pre><code>## [1] 15.4</code></pre>
-<pre class="r"><code>fit &lt;- lm(dist ~ speed, data = cars)
-fit</code></pre>
-<pre><code>## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932</code></pre>
 
       
       <p>
@@ -411,7 +472,7 @@ fit</code></pre>
         </section>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
-    &copy; 2022 Richard Klein. All Rights Reserved
+    &copy; 2023 Richard Klein. All Rights Reserved
   </span>
 </footer>
 
