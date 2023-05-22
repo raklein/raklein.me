@@ -35,8 +35,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [author]
   name = "Richard Klein"
   bio = "Postdoctoral researcher at Tilburg University. Interested in metascience and the reproducibility of psychological science across contexts. <br>raklein22@gmail.com"
-  job = "Postdoc"
-  location = "Tilburg, the Netherlands"
+  job = "Postdoctoral Researcher"
+  # location = "Tilburg, the Netherlands"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "raklein22@gmail.com"
   # Your profile picture
@@ -72,7 +72,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "resume"
   name = "Resume"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
-  url = "https://github.com/raklein/resume/blob/master/klein_resume.pdf"
+  url = "img/klein_resume_web.pdf"
 [[menu.main]]
   weight = 4
   identifier = "about"
