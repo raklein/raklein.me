@@ -1,0 +1,29 @@
+---
+title: "Building your website in R"
+author: ''
+date: '2018-05-24'
+slug: hello-world-rmd
+categories: ["Updates"]
+# thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+# thumbnailImagePosition: left
+tags: ["welcome"]
+---
+
+
+
+<p>This website is built using the ‘blogdown’ R package, uploaded to a <a href="https://github.com/raklein/raklein.me">GitHub repo</a>, then served to web with Netlify. Credit to the <a href="https://github.com/kakawait/hugo-tranquilpeak-theme">Hugo Tranquilpeak</a> theme.</p>
+<p>One advantage is that we can write in simple R Markdown, and embed+run R code easily:</p>
+<!--more-->
+<p>This website is built using the ‘blogdown’ R package, uploaded to a <a href="https://github.com/raklein/raklein.me">GitHub repo</a>, then served to web with Netlify. Credit to the <a href="https://github.com/kakawait/hugo-tranquilpeak-theme">Hugo Tranquilpeak</a> theme.</p>
+<p>One advantage is that we can write in simple R Markdown, and embed+run R code easily:</p>
+<pre class="r"><code>mean(cars$speed)</code></pre>
+<pre><code>## [1] 15.4</code></pre>
+<pre class="r"><code>fit &lt;- lm(dist ~ speed, data = cars)
+fit</code></pre>
+<pre><code>## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>

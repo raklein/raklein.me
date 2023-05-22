@@ -1,0 +1,26 @@
+---
+title: "Building your website in R"
+author: ''
+date: '2018-05-24'
+slug: hello-world-rmd
+categories: ["Updates"]
+# thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+# thumbnailImagePosition: left
+tags: ["welcome"]
+---
+
+This website is built using the 'blogdown' R package, uploaded to a [GitHub repo](https://github.com/raklein/raklein.me), then served to web with Netlify. Credit to the [Hugo Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme) theme.
+
+One advantage is that we can write in simple R Markdown, and embed+run R code easily: 
+
+<!--more-->
+
+This website is built using the 'blogdown' R package, uploaded to a [GitHub repo](https://github.com/raklein/raklein.me), then served to web with Netlify. Credit to the [Hugo Tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme) theme.
+
+One advantage is that we can write in simple R Markdown, and embed+run R code easily: 
+
+```{r cars}
+mean(cars$speed)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```

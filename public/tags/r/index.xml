@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>r on Richard Klein</title>
+    <title>R on Richard Klein</title>
     <link>/tags/r/</link>
-    <description>Recent content in r on Richard Klein</description>
+    <description>Recent content in R on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Animated Runs</title>
+      <title>Animating Strava Data</title>
       <link>/2023/02/strava-anim-rmd/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
@@ -16,7 +16,21 @@
       <description>
 
 
-&lt;p&gt;As a personal project, I pulled some data from the Strava API and visualized it. I documented the code on &lt;a href=&#34;https://github.com/raklein/strava-anim&#34;&gt;GitHub&lt;/a&gt; so that anyone can do this with their own Strava data.&lt;/p&gt;
+&lt;p&gt;As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on &lt;a href=&#34;https://github.com/raklein/strava-anim&#34;&gt;GitHub&lt;/a&gt; so that anyone can do this with their own Strava data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing DataCheck: A tool to automatically prevent privacy violations</title>
+      <link>/2022/11/datacheck-rmd/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/11/datacheck-rmd/</guid>
+      <description>
+
+
+&lt;p&gt;Our prior work demonstrated that &lt;a href=&#34;https://www.nature.com/articles/s41562-022-01481-w#citeas&#34;&gt;5-10% of open datasets contain potential privacy violations&lt;/a&gt;, so we developed a tool to help. &lt;a href=&#34;(https://libscie.github.io/datacheck-website/)&#34;&gt;DataCheck&lt;/a&gt; can automatically scan a dataset and flag 14 types of common privacy violations before a researcher makes their data public. Available as both a &lt;a href=&#34;https://libscie.github.io/datacheck-website/&#34;&gt;Web app&lt;/a&gt;
+and &lt;a href=&#34;https://github.com/libscie/datacheck&#34;&gt;R package&lt;/a&gt;, the tool runs locally so there is no risk of exposing participant data during the scan. It was validated on both live and simulated datasets to be &amp;gt;98% accurate.&lt;/p&gt;
 </description>
     </item>
     

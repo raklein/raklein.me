@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>Building your website in R</title>
       <link>/2018/05/hello-world-rmd/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
@@ -16,7 +16,7 @@
       <description>
 
 
-&lt;p&gt;Trying out a new webpage design. This is built in the ‘blogdown’ R package, uploaded to a &lt;a href=&#34;https://github.com/raklein/raklein.me&#34;&gt;GitHub repo&lt;/a&gt;, then served to web with Netlify. Credit to the &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme&#34;&gt;Hugo Tranquilpeak&lt;/a&gt; theme.&lt;/p&gt;
+&lt;p&gt;This website is built using the ‘blogdown’ R package, uploaded to a &lt;a href=&#34;https://github.com/raklein/raklein.me&#34;&gt;GitHub repo&lt;/a&gt;, then served to web with Netlify. Credit to the &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme&#34;&gt;Hugo Tranquilpeak&lt;/a&gt; theme.&lt;/p&gt;
 &lt;p&gt;One advantage is that we can write in simple R Markdown, and embed+run R code easily:&lt;/p&gt;
 </description>
     </item>

@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>r</title>
+      <title>R</title>
       <link>/tags/r/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
@@ -35,9 +35,27 @@
     </item>
     
     <item>
+      <title>privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>/tags/research/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>crowdsourcing</title>
       <link>/tags/crowdsourcing/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/crowdsourcing/</guid>
       <description></description>
@@ -46,7 +64,7 @@
     <item>
       <title>many labs</title>
       <link>/tags/many-labs/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/many-labs/</guid>
       <description></description>
@@ -55,9 +73,18 @@
     <item>
       <title>replication</title>
       <link>/tags/replication/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manylabs</title>
+      <link>/tags/manylabs/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/manylabs/</guid>
       <description></description>
     </item>
     

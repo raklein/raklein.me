@@ -6,34 +6,60 @@
     <description>Recent content in Releases on Richard Klein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/releases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/releases/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Many Labs 4 Preprint</title>
-      <link>/2020/01/many-labs-4-preprint-rmd/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Introducing DataCheck: A tool to automatically prevent privacy violations</title>
+      <link>/2022/11/datacheck-rmd/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/many-labs-4-preprint-rmd/</guid>
+      <guid>/2022/11/datacheck-rmd/</guid>
       <description>
 
 
-&lt;p&gt;We released the &lt;a href=&#34;https://psyarxiv.com/vef2c&#34;&gt;Many Labs 4 preprint&lt;/a&gt;, and the manuscript is currently under review at Psych Science. We also wrote a &lt;a href=&#34;https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/&#34;&gt;brief summary post&lt;/a&gt; for the COS blog. You can follow some discussion on Twitter &lt;a href=&#34;https://twitter.com/raklein3/status/1204839047354560513&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/BrianNosek/status/1204838107855675394&#34;&gt;here&lt;/a&gt;.
+&lt;p&gt;Our prior work demonstrated that &lt;a href=&#34;https://www.nature.com/articles/s41562-022-01481-w#citeas&#34;&gt;5-10% of open datasets contain potential privacy violations&lt;/a&gt;, so we developed a tool to help. &lt;a href=&#34;(https://libscie.github.io/datacheck-website/)&#34;&gt;DataCheck&lt;/a&gt; can automatically scan a dataset and flag 14 types of common privacy violations before a researcher makes their data public. Available as both a &lt;a href=&#34;https://libscie.github.io/datacheck-website/&#34;&gt;Web app&lt;/a&gt;
+and &lt;a href=&#34;https://github.com/libscie/datacheck&#34;&gt;R package&lt;/a&gt;, the tool runs locally so there is no risk of exposing participant data during the scan. It was validated on both live and simulated datasets to be &amp;gt;98% accurate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protecting Privacy in the Era of Open Science</title>
+      <link>/2022/11/privacy-protection-rmd/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/11/privacy-protection-rmd/</guid>
+      <description>
+
+
+&lt;p&gt;We just &lt;a href=&#34;https://www.nature.com/articles/s41562-022-01481-w#citeas&#34;&gt;published&lt;/a&gt; our findings and recommendations for researchers to better protect the privacy of research participants when sharing open data. Examining over 2,000 public datasets from papers using human participants, we found that 5-10% contained information that could potentially re-identify participants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Many Labs 4</title>
+      <link>/2022/04/many-labs-4-preprint-rmd/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/04/many-labs-4-preprint-rmd/</guid>
+      <description>
+
+
+&lt;p&gt;We released &lt;a href=&#34;https://online.ucpress.edu/collabra/article/8/1/35271/168050/Many-Labs-4-Failure-to-Replicate-Mortality&#34;&gt;Many Labs 4&lt;/a&gt; open access in Collabra: Psychology. We also wrote a &lt;a href=&#34;https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/&#34;&gt;brief summary post&lt;/a&gt; for the COS blog. You can follow some discussion on Twitter &lt;a href=&#34;https://twitter.com/raklein3/status/1204839047354560513&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/BrianNosek/status/1204838107855675394&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Many Labs 2 Under Review</title>
-      <link>/2018/05/manylabs2-nearlydone-md/</link>
+      <link>/2018/05/manylabs2-nearlydone-rmd/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/manylabs2-nearlydone-md/</guid>
-      <description> 
-
+      <guid>/2018/05/manylabs2-nearlydone-rmd/</guid>
+      <description>
 
 
 &lt;p&gt;&lt;em&gt;EDIT: ML2 was published Dec 2018, &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/2515245918810225&#34;&gt;open access in AMPPS&lt;/a&gt;. See also &lt;a href=&#34;https://www.psychologicalscience.org/publications/many-labs-2&#34;&gt;the commentaries from original authors&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;ORIGINAL:&lt;/em&gt;
-&lt;a href=&#34;https://osf.io/8cd4r/&#34;&gt;The Many Labs 2 project&lt;/a&gt; has been submitted and is under review at &lt;a href=&#34;https://www.psychologicalscience.org/publications/ampps&#34;&gt;AMPPS&lt;/a&gt;. Overall, 28 psychology studies were replicated across &amp;gt;120 samples from 34 countries around the world, totalling &amp;gt;15,000 participants.&lt;/p&gt;
-&lt;p&gt;Public release of the results/manuscript/data should occur shortly, pending final revisions and alongside commentaries from original authors.
+The Many Labs 2 project has been submitted and is under review at &lt;a href=&#34;https://www.psychologicalscience.org/publications/ampps&#34;&gt;AMPPS&lt;/a&gt;. Overall, 28 psychology studies were replicated across &amp;gt;120 samples from 34 countries around the world, totaling &amp;gt;15,000 participants.&lt;/p&gt;
+&lt;p&gt;Public release of the results/manuscript/data should occur shortly, pending final revisions and alongside commentaries from original authors.&lt;/p&gt;
 </description>
     </item>
     
