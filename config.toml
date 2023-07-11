@@ -128,12 +128,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/raklein3"
-[[menu.links]]
-  weight = 6
-  identifier = "uniweb"
-  name = "University Page"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-university\"></i>"
-  url = "https://research.tilburguniversity.edu/en/persons/richard-klein"
+#  [[menu.links]]
+#    weight = 6
+#    identifier = "uniweb"
+#    name = "University Page"
+#    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-university\"></i>"
+#    url = "https://research.tilburguniversity.edu/en/persons/richard-klein"
 
 #[[menu.misc]]
 #  weight = 1
