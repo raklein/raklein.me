@@ -5,37 +5,21 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="generator" content="Hugo 0.111.3 with theme Tranquilpeak 0.4.7-BETA">
-<meta name="author" content="Richard Klein">
+<meta name="generator" content="Hugo 0.154.2 with theme Tranquilpeak 0.4.7-BETA">
+<meta name="author" content="">
 <meta name="keywords" content="">
-<meta name="description" content="
+<meta name="description" content="As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.">
 
 
-As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.
-">
-
-
-<meta property="og:description" content="
-
-
-As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.
-">
+<meta property="og:description" content="As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Animating Strava Data">
 <meta name="twitter:title" content="Animating Strava Data">
 <meta property="og:url" content="/2023/02/strava-anim-rmd/">
 <meta property="twitter:url" content="/2023/02/strava-anim-rmd/">
 <meta property="og:site_name" content="Richard Klein">
-<meta property="og:description" content="
-
-
-As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.
-">
-<meta name="twitter:description" content="
-
-
-As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.
-">
+<meta property="og:description" content="As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.">
+<meta name="twitter:description" content="As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on GitHub so that anyone can do this with their own Strava data.">
 <meta property="og:locale" content="en-us">
 
   
@@ -76,9 +60,6 @@ As a side project, I wrote some code to automatically pull my data from the Stra
 
 
 
-  <meta property="og:image" content="https://www.gravatar.com/avatar/2b41adef483434644d86477e3ac3d81b?s=640">
-  <meta property="twitter:image" content="https://www.gravatar.com/avatar/2b41adef483434644d86477e3ac3d81b?s=640">
-
 
     <title>Animating Strava Data</title>
 
@@ -99,10 +80,8 @@ As a side project, I wrote some code to automatically pull my data from the Stra
     
     
 
-    
-      
-    
-    
+	
+	
   </head>
 
   <body>
@@ -118,16 +97,6 @@ As a side project, I wrote some code to automatically pull my data from the Stra
       <nav id="sidebar" data-behavior="4">
   <div class="sidebar-container">
     
-      <div class="sidebar-profile">
-        <a href="/#about">
-          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/2b41adef483434644d86477e3ac3d81b?s=110" alt="Author&#39;s picture" />
-        </a>
-        <h4 class="sidebar-profile-name">Richard Klein</h4>
-        
-          <h5 class="sidebar-profile-bio">Clinical Data Scientist at the Food and Drug Administration analyzing safety signals in New Drug Applications. Former academic who focused on replication and methods for robust science in Psychology. <!-- raw HTML omitted --><a href="mailto:raklein22@gmail.com">raklein22@gmail.com</a></h5>
-        
-      </div>
-    
     <ul class="sidebar-buttons">
       
   <li class="sidebar-button">
@@ -142,7 +111,7 @@ As a side project, I wrote some code to automatically pull my data from the Stra
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://github.com/raklein/resume/blob/master/klein_cv.pdf">
+      <a class="sidebar-button-link " href="/github.com">
     
       <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
       
@@ -176,7 +145,7 @@ As a side project, I wrote some code to automatically pull my data from the Stra
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://github.com/raklein">
+      <a class="sidebar-button-link " href="/github.com">
     
       <i class="sidebar-button-icon fa fa-lg fa-github"></i>
       
@@ -186,7 +155,7 @@ As a side project, I wrote some code to automatically pull my data from the Stra
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://osf.io/tmwry/">
+      <a class="sidebar-button-link " href="/osf.io">
     
       <i class="sidebar-button-icon fa fa-lg fa-flask"></i>
       
@@ -196,7 +165,7 @@ As a side project, I wrote some code to automatically pull my data from the Stra
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://scholar.google.com/citations?user=wxW6e0sAAAAJ">
+      <a class="sidebar-button-link " href="/scholar.google.com">
     
       <i class="sidebar-button-icon fa fa-lg fa-google"></i>
       
@@ -206,17 +175,7 @@ As a side project, I wrote some code to automatically pull my data from the Stra
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="http://neurotree.org/neurotree/tree.php?pid=747208&amp;pnodecount=6&amp;cnodecount=2&amp;fontsize=1">
-    
-      <i class="sidebar-button-icon fa fa-lg fa-tree"></i>
-      
-      <span class="sidebar-button-desc">NeuroTree</span>
-    </a>
-  </li>
-
-  <li class="sidebar-button">
-    
-      <a class="sidebar-button-link " href="https://www.linkedin.com/in/richard-a-klein/">
+      <a class="sidebar-button-link " href="/www.linkedin.com">
     
       <i class="sidebar-button-icon fa fa-lg fa-linkedin"></i>
       
@@ -272,13 +231,17 @@ As a side project, I wrote some code to automatically pull my data from the Stra
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <div class="figure">
+              <p>As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on <a href="https://github.com/raklein/strava-anim">GitHub</a> so that anyone can do this with their own Strava data.</p>
+
+
+
+
+<div class="figure">
 <img src="img/allruns_anim3-optimize.gif" alt="" />
 <p class="caption">Animated Running Data</p>
 </div>
 <p>As a side project, I wrote some code to automatically pull my data from the Strava API and visualize it with some cool R packages. I documented the code on <a href="https://github.com/raklein/strava-anim">GitHub</a> so that anyone can do this with their own Strava data.</p>
 <p>Each slug represents an individual run, with red ones being more recent. The script will automatically pull in new runs, so the idea is that this might motivate me to go on more runs and flesh out the map.</p>
-
               
             </div>
           </div>
@@ -333,7 +296,6 @@ As a side project, I wrote some code to automatically pull my data from the Stra
         </li>
         
       
-      
       <li class="post-action">
         
           <a class="post-action-btn btn btn--default" href="#">
@@ -352,7 +314,7 @@ As a side project, I wrote some code to automatically pull my data from the Stra
         </article>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
-    &copy; 2024 Richard Klein. All Rights Reserved
+    &copy; 2026 Richard Klein. All Rights Reserved
   </span>
 </footer>
 
@@ -391,7 +353,6 @@ As a side project, I wrote some code to automatically pull my data from the Stra
         </li>
         
       
-      
       <li class="post-action">
         
           <a class="post-action-btn btn btn--default" href="#">
@@ -419,25 +380,9 @@ As a side project, I wrote some code to automatically pull my data from the Stra
       <i class="fa fa-remove"></i>
     </div>
     
-      <img id="about-card-picture" src="https://www.gravatar.com/avatar/2b41adef483434644d86477e3ac3d81b?s=110" alt="Author&#39;s picture" />
-    
-    <h4 id="about-card-name">Richard Klein</h4>
-    
-      <div id="about-card-bio">Clinical Data Scientist at the Food and Drug Administration analyzing safety signals in New Drug Applications. Former academic who focused on replication and methods for robust science in Psychology. <!-- raw HTML omitted --><a href="mailto:raklein22@gmail.com">raklein22@gmail.com</a></div>
+    <h4 id="about-card-name"></h4>
     
     
-      <div id="about-card-job">
-        <i class="fa fa-briefcase"></i>
-        <br/>
-        Clinical Data Scientist @ FDA
-      </div>
-    
-    
-      <div id="about-card-location">
-        <i class="fa fa-map-marker"></i>
-        <br/>
-        Silver Spring, Maryland
-      </div>
     
   </div>
 </div>
