@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Many Labs on Richard Klein</title>
     <link>/tags/many-labs/</link>
     <description>Recent content in Many Labs on Richard Klein</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/many-labs/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/many-labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Many Labs 4</title>
       <link>/2022/04/many-labs-4-preprint-rmd/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
       <guid>/2022/04/many-labs-4-preprint-rmd/</guid>
-      <description>&lt;p&gt;We released &lt;a href=&#34;https://online.ucpress.edu/collabra/article/8/1/35271/168050/Many-Labs-4-Failure-to-Replicate-Mortality&#34;&gt;Many Labs 4&lt;/a&gt; open access in Collabra: Psychology. We also wrote a &lt;a href=&#34;https://cos.io/blog/many-labs-4-failure-replicate-mortality-salience-effect-and-without-original-author-involvement/&#34;&gt;brief summary post&lt;/a&gt; for the COS blog. You can follow some discussion on Twitter &lt;a href=&#34;https://twitter.com/raklein3/status/1204839047354560513&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/BrianNosek/status/1204838107855675394&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>We released Many Labs 4 open access in Collabra: Psychology. We also wrote a brief summary post for the COS blog. You can follow some discussion on Twitter here or here.
+HUGOMORE42 We released Many Labs 4 open access in Collabra: Psychology. We also wrote a brief summary post for the COS blog. You can follow some discussion on Twitter here or here.</description>
     </item>
+    
   </channel>
 </rss>

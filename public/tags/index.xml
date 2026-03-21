@@ -1,82 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Richard Klein</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Richard Klein</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gganimate</title>
-      <link>/tags/gganimate/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/gganimate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Strava</title>
-      <link>/tags/strava/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/strava/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>/tags/privacy/</link>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>/tags/research/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/research/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Crowdsourcing</title>
       <link>/tags/crowdsourcing/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
       <guid>/tags/crowdsourcing/</guid>
       <description></description>
     </item>
+    
+    <item>
+      <title>Gganimate</title>
+      <link>/tags/gganimate/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gganimate/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Many Labs</title>
       <link>/tags/many-labs/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
       <guid>/tags/many-labs/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Replication</title>
-      <link>/tags/replication/</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/replication/</guid>
-      <description></description>
-    </item>
+    
     <item>
       <title>Manylabs</title>
       <link>/tags/manylabs/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
       <guid>/tags/manylabs/</guid>
       <description></description>
     </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication</title>
+      <link>/tags/replication/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/tags/research/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strava</title>
+      <link>/tags/strava/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/strava/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Welcome</title>
       <link>/tags/welcome/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
       <guid>/tags/welcome/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

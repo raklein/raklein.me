@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Richard Klein</title>
     <link>/tags/welcome/</link>
     <description>Recent content in Welcome on Richard Klein</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Building your website in R</title>
       <link>/2018/05/hello-world-rmd/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
       <guid>/2018/05/hello-world-rmd/</guid>
-      <description>&lt;p&gt;This website is built using the ‘blogdown’ R package, uploaded to a &lt;a href=&#34;https://github.com/raklein/raklein.me&#34;&gt;GitHub repo&lt;/a&gt;, then served to web with Netlify. Credit to the &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme&#34;&gt;Hugo Tranquilpeak&lt;/a&gt; theme.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;One advantage is that we can write in simple R Markdown, and embed+run R code easily:&lt;/p&gt;</description>
+      <description>This website is built using the ‘blogdown’ R package, uploaded to a GitHub repo, then served to web with Netlify. Credit to the Hugo Tranquilpeak theme.
+One advantage is that we can write in simple R Markdown, and embed+run R code easily:
+HUGOMORE42 This website is built using the ‘blogdown’ R package, uploaded to a GitHub repo, then served to web with Netlify. Credit to the Hugo Tranquilpeak theme.</description>
     </item>
+    
   </channel>
 </rss>

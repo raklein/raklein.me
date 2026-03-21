@@ -16,6 +16,10 @@
 library(blogdown)
 #install_hugo()
 
+# May need to use old hugo version
+# install_hugo(version = "0.53")
+# options(blogdown.hugo.version = "0.53")
+
 # To make the site you would run this line, but we've already done this.
 # Needs to be in an empty directory if you want to start from scratch.
 #new_site(theme = 'kakawait/hugo-tranquilpeak-theme')
